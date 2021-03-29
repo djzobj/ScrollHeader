@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ScrollHeader_Example' do
+  pod 'ScrollHeader', :path => '../'
+
+  target 'ScrollHeader_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
