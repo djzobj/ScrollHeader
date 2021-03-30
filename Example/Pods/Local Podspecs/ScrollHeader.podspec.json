@@ -1,0 +1,30 @@
+{
+  "name": "ScrollHeader",
+  "version": "1.0.0",
+  "summary": "嵌套滑动",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/djzobj/ScrollHeader.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1345726337@qq.com": "zhangdejun@souche.com"
+  },
+  "source": {
+    "git": "https://github.com/djzobj/ScrollHeader.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ScrollHeader/Classes/**/*",
+  "dependencies": {
+    "Aspects": [
+
+    ],
+    "Masonry": [
+
+    ]
+  }
+}

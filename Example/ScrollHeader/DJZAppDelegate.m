@@ -7,6 +7,8 @@
 //
 
 #import "DJZAppDelegate.h"
+#import <Aspects/Aspects.h>
+#import <Masonry/Masonry.h>
 
 @implementation DJZAppDelegate
 

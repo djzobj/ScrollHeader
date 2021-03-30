@@ -1,0 +1,29 @@
+PODS:
+  - Aspects (1.4.1)
+  - Masonry (1.1.0)
+  - ScrollHeader (1.0.0):
+    - Aspects
+    - Masonry
+
+DEPENDENCIES:
+  - Aspects
+  - Masonry
+  - ScrollHeader (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Aspects
+    - Masonry
+
+EXTERNAL SOURCES:
+  ScrollHeader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  ScrollHeader: f9341beb9855278a8223bf66e6d93a4839ee0227
+
+PODFILE CHECKSUM: 305523e69c49d06ebd08c0c932b54aa68584048d
+
+COCOAPODS: 1.9.3
